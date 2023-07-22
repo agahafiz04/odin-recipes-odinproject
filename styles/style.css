@@ -26,6 +26,13 @@ p {
     font-size: 16px;
 }
 
+a {
+    display: inline-block;
+    text-decoration: none;
+    color: blue;
+    margin: 10px 10px;
+}
+
 ol li {
     color: rgb(253, 250, 250);
     font-weight: 800;
