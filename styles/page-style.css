@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Oswald:wght@200;300;400;500;600;700&display=swap");
+
+:root {
+  --primary-color: rgb(255, 255, 255);
+  --secondary-color: rgb(236, 236, 234);
+  --border-color: rgb(247, 246, 246);
+  --main-height: 100vh;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+
+body {
+  font-family: "Indie Flower", cursive;
+  background-color: var(--primary-color);
+}
+
+img {
+  width: 13rem;
+  height: 13rem;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+div.content {
+  border: 5px dotted black;
+  border-radius: 5%;
+  padding: 1.5rem;
+  max-width: 65%;
+  max-height: 50%;
+  margin: 1rem auto;
+  text-align: left;
+
+  /* Flex Container */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: justify;
+  gap: 1.6rem;
+}
+
+/* div.content > * {
+} */
+
+div.content .header {
+  font-size: 1rem;
+  text-align: center;
+}
+
+div.content .ingredients li {
+  margin-left: 1.1rem;
+}
+
+div.content .steps li {
+  margin-left: 1rem;
+}
+
+.footer {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  margin: 0 1rem;
+}
+
+a:hover {
+  opacity: 0.75;
+}
