@@ -2,15 +2,13 @@
 
 Recipe App Powered by The Odin Project
 
+This project is made using html and css at a basic level. The contents of this project are commonly made home recipes by including some descriptions. This is my first project, so i hope this can be my first step to become a programmer with a proficient skill that can help many people with the applications that I will make in the future
+
 ## [Live Demo](https://agahafiz04.github.io/odin-recipes-odinproject/)
 
-![This is an image](https://raw.githubusercontent.com/hmjatt/hmjatt.github.io/master/images/admin-desk-min.png)
+# Page Preview
+![screencapture-agahafiz04-github-io-odin-recipes-odinproject-2023-09-26-09_54_48](https://github.com/agahafiz04/odin-recipes-odinproject/assets/139210360/58aca12c-7ebc-4933-999c-a96dbc06f6a8)
 
-This project is made using html and css at a basic level
-
-The contents of this project are commonly made home recipes by including some descriptions
-
-This is my first project, so i hope this can be my first step to become a programmer with a proficient skill that can help many people with the applications that I will make in the future
 
 ### Technologies Used
 
